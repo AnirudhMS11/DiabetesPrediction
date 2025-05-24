@@ -38,3 +38,5 @@ Monitored resources and services via kubectl and ensured minimal cost under GCPâ
 This Project uses the [Diabetes prediction dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset) available on kaggle, created and uploaded by [Mohammed Mustafa](https://www.kaggle.com/iammustafatz). The dataset includes medical and demographic attributes to predict diabetes likelihood.
 
 **Note**: The dataset is Â© the original author. It is used here for non-commercial, educational purposes only. It is not redistributed in this repository.
+
+> Note: The trained model weights are not included in this repository. You can train train the model yourself using the provided notebook and the linked dataset.
